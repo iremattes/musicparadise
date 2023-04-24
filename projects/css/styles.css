@@ -1,0 +1,24 @@
+nav,section,footer,header,ul,li {
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+ul {
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    float: none;
+    font-size: 35px;
+}
+body {
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1,h2,h3 {
+    color: rebeccapurple;
+    font-size: 40px;
+}
+p {
+    color:lightgray;
+    font: 1em sans-serif;
+}
